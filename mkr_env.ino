@@ -41,12 +41,12 @@ void loop() {
   Serial.print("Illuminance = ");
   Serial.print(illuminance);
   Serial.println(" lx");
-  Serial.print("UVA         = ");
-  Serial.println(uva);
-  Serial.print("UVB         = ");
-  Serial.println(uvb);
-  Serial.print("UV Index    = ");
-  Serial.println(uvIndex);
+  //Serial.print("UVA         = ");
+  //Serial.println(uva);
+  //Serial.print("UVB         = ");
+  //Serial.println(uvb);
+  //Serial.print("UV Index    = ");
+  //Serial.println(uvIndex);
 
   // print an empty line
   Serial.println();
